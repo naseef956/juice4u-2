@@ -1,0 +1,38 @@
+.body {
+  font-family: "Fira Sans", sans-serif;
+}
+.bg-black {
+  background-color: black;
+}
+.custom-font-h3 {
+  font-size: 40px;
+}
+.home-slider h2 {
+  font-size: 48px;
+  line-height: auto;
+}
+.home-slider .btn-outline-light {
+  font-size: 28px;
+  line-height: normal;
+}
+.about-section p {
+  font-size: 16px;
+  line-height: 28px;
+}
+.service-box h4 {
+  font-size: 24px;
+}
+.square {
+  height: 300px !important;
+  width: auto;
+}
+.img-fluid {
+  object-fit: cover;
+  height: 100% !important;
+  width: 100%;
+}
+.contact-section {
+  background-image: url(../images/background.jpeg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
